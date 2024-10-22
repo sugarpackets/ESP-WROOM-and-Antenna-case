@@ -1,4 +1,4 @@
-# ESP-WROOM-and-Antenna-case
+# ESP32-WROOM-and-Antenna-case
 easy case for an ESP32 WROOM with antenna mod, credit for mod tutorial, 
 https://community.home-assistant.io/t/how-to-add-an-external-antenna-to-an-esp-board/131601
 Amazon link to version of WROOM https://www.amazon.com/dp/B0CNYK7WT2?ref=ppx_pop_mob_ap_share
